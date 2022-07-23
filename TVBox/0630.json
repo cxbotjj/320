@@ -3,7 +3,7 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly80MjI2NzgzMjAuZ2l0aHViLmlvL2NzL3F3ZS90di9saXZlLnR4dA=="]}]}],
 
   "sites":[
-    {"key":"Gitcafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+    {"key":"Gitcafe","name":"🦊纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk","name":"🐞完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
