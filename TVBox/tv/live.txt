@@ -281,6 +281,7 @@
 重庆,#genre#
 CQTV卫视,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
 CQTV卫视,http://live.cooltv.top/tv/aishang.php?id=cqws
+CQTV新闻,http://dyzy.pub:8000/udp/235.254.197.199:7980
 CQTV新闻,http://live.cooltv.top/tv/cqtv.php?id=3
 CQTV新闻,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
 CQTV新闻,rtsp://123.147.113.4:554/04000001/01000000004000000000000000000258?AuthInfo=xxx&userid=
