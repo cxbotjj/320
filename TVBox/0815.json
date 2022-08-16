@@ -75,7 +75,7 @@
 	{"key":"csp_xpath_动漫巴士","name":"🤖动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://422678320.github.io/cs/qwe/tvjs/dm84.json"},
 	{"key":"AliPS","name":"🔍阿狸盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "dcbc975ad0684eb5a498ecd1836272e6"}, 
 	{"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}, 
-	{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api" "csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
+	{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api" "csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}
         ],
 	
 	"parses": [{
