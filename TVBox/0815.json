@@ -1,6 +1,6 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-	"spider": "http://刚刚.live/jar/",
+	"spider": "https://api.wangmeipo.cn/tv/mainjar.jar;md5;650fc73d1ff18935809a6e64d51fddbb",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
