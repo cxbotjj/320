@@ -481,10 +481,10 @@
         {"key":"AliPS","name":"💓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
 	    {"key":"csp_Yiso","name":"🐞易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
 		{
-			"key": "zhaozy",
+			"key": "Zhaozy",
 			"name": "🗂️找资源(仅搜索)",
 			"type": 3,
-			"api": "csp_FindZY",
+			"api": "csp_Zhaozy",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
