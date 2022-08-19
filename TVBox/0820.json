@@ -424,7 +424,7 @@
 	{"key":"csp_xpath_喵乐","name":"💘喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/喵乐.json"},
         {"key":"csp_biubiu_搜狗影院","name":"🐞搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/cs/qwe/tvjs/搜狗影院.json"},
         {"key":"csp_桔子TV","name":"🐞桔子TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/cs/qwe/tvjs/桔子TV.json" },
-        {"key":"AliPS","name":"💓盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
+        {"key":"AliPS","name":"💓盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
 	{"key":"csp_Yiso","name":"🐞易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"1dde60eefe454d9aa0e0d83600555af2"},
 		{
 			"key": "Zhaozy",
