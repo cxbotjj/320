@@ -220,32 +220,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_QQ",
-			"name": "🐧腾讯（官）",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "csp_MGTV",
-			"name": "🥭芒果（官）",
-			"type": 3,
-			"api": "csp_MGTV",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺（官）",
-			"type": 3,
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-
-		{
 			"key": "youku",
 			"name": "👑优酷（官）",
 			"type": 0,
