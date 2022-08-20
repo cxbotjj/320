@@ -20,6 +20,7 @@
     {"key":"csp_Dy555","name":"🙈555（爬）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Yj1211","name":"🙈1211（爬）","api":"csp_Yj1211","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Nfyun","name":"🙈Nfyun（爬）","api":"csp_Nfyun","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+    {"key":"csp_Nbys","name":"🙈Nbys（爬）","api":"csp_Nbys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://422678320.github.io/320/TVBox/MaooXB/茶杯狐.json"},
     //{"key":"酷猫","name":"🐞酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ikan","name":"🐞爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
