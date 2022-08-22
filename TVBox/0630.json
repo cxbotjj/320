@@ -10,7 +10,7 @@
     {"key":"csp_QQ","name":"🍅腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/腾讯.txt"},
     {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/爱奇艺.txt"},
     {"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/芒果.txt"},
-	  {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Smdyy_spider","name":"🐞神马影视(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
