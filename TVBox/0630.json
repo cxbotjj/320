@@ -4,7 +4,7 @@
 
   "sites":[
     {"key":"csp_Kunyu77","name":"🐞七七(SP)推崇","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Gitcafe","name":"💘小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2","jar":"https://422678320.github.io/cs/qwe/0821.jar;md5;1c8226ef035fbe7e72f1dad45a4ea188"},
+    {"key":"Gitcafe","name":"💘小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1dde60eefe454d9aa0e0d83600555af2";"jar":"https://422678320.github.io/cs/qwe/0821.jar"},
     {"key":"csp_BBB","name":"🐞哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/320/TVBox/MaooXB/bili.json"},    
     {"key":"293视频","name":"🐞293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key":"csp_QQ","name":" 🍅腾讯视频","type": 3,"api":"csp_QQ","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%85%BE%E8%AE%AF.txt"},
