@@ -5,7 +5,10 @@
 小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 哆啦A梦,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 蜡笔小新,https://epg.pm/stream/8d0f10c742b08b29c153a6c666d33a9b6116bfa8c6818a14a2a07154c7d3dca2.php
-蜡笔小新,http://111.6.244.41/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=8f5d6a42c73876da3743b57a033c0e7a&wsTime=61250236&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw==&ctype=huya_tars&txyp=o:d3;&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&dispatch_from=ztc100.112.158.96&utime=1629815376492_#http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+蜡笔小新,http://zzy789.xyz/bili.php?id=1895574
+蜡笔小新,http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+蜡笔小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
+蜡笔小新,http://106.53.212.251/daili/bili.php?id=11579951
 猫和老鼠,http://111.6.244.41/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8?wsSecret=c0e7457bb7fe0e9afac328a4ee972d82&wsTime=626bcd8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Asjz3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 爆笑虫子,http://111.6.244.41/txdirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
 猫和老鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
