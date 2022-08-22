@@ -20,7 +20,8 @@
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
 好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
-
+飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rnSIRfMjs.xs
 世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rn SIRfMjs.xs?svr_type=live_oc&tencent_test_client_ip=218.5.77.27&dispatch_from=ztc100.115.135.238&utime=1652013694647_1
 世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
