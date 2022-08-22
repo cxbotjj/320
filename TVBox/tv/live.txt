@@ -16,6 +16,8 @@
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
+中天新聞,https://epg.pm/stream/5a87083bc257de8a1c9bc3474000ff38a5bdc90ea41e8d384168ba610a230390.php
+东森新闻,https://epg.pm/stream/c8621da5d311aa34e7281b64bec8f141bfaad8786dd836d533054d9bf46cc7b9.php
 
 卫视,#genre#									
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8								
