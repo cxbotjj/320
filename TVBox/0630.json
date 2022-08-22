@@ -29,7 +29,7 @@
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
     {"key":"csp_Cokemv","name":"🐼Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🐼Auete影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Bdys","name":"🎾哔嘀(磁力)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/320/TVBox/tvjs/Bdys.json,
+    {"key":"Bdys","name":"🎾哔嘀(磁力)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://422678320.github.io/320/TVBox/tvjs/Bdys.json",
      "jar":"https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"},
     {"key":"csp_Ddrk","name":"🌀低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"🚬厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
