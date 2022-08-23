@@ -6,9 +6,6 @@
 哆啦A梦,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
 蜡笔小新,https://epg.pm/stream/8d0f10c742b08b29c153a6c666d33a9b6116bfa8c6818a14a2a07154c7d3dca2.php
 蜡笔小新,http://zzy789.xyz/bili.php?id=1895574
-蜡笔小新,http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
-蜡笔小新,http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-蜡笔小新,http://106.53.212.251/daili/bili.php?id=11579951
 猫和老鼠,http://111.6.244.41/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8?wsSecret=c0e7457bb7fe0e9afac328a4ee972d82&wsTime=626bcd8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Asjz3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*#http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 爆笑虫子,http://111.6.244.41/txdirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8#http://txtest-xp2p.p2p.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
 猫和老鼠,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
@@ -19,12 +16,6 @@
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 中天新闻,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
-好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
-飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
-飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rnSIRfMjs.xs
-世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rn SIRfMjs.xs?svr_type=live_oc&tencent_test_client_ip=218.5.77.27&dispatch_from=ztc100.115.135.238&utime=1652013694647_1
-世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
 
 卫视,#genre#									
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8								
