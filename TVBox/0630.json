@@ -19,7 +19,7 @@
     {"key":"csp_Dy555","name":"🙈555(SP)","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Nfyun","name":"🙈Nfyun(SP)","api":"csp_Nfyun","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_Mjxq","name":"🙈美剧星球(SP)","api":"csp_Mjxq","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-    {"key":"csp_BBB","name":"🐞哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://422678320.github.io/320/TVBox/MaooXB/bili.json"}, 
+    {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33110/%E5%93%94%E5%93%A9.json?sign=bfFrA3Ub4BqSYHavVzc5BVYQuvwuGROwx8QLWbKbb3A%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
     {"key":"csp_QQ","name":"🍅腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/腾讯.txt"},
     {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/爱奇艺.txt"},
     {"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.wangmeipo.cn/tv/tvjs/芒果.txt"},
